@@ -197,11 +197,11 @@ echo -e "\e[35m
 ────────────────────────────────────────────────────\n\e[0m"
 
 echo -e "\033[1;35m"
-git clone https://github.com/undefinidoo/The-LoliBot-MD.git
+git clone https://github.com/Gamotto/The-CatBot-MD2.git
 echo -e "\033[01;32m\033[01mLa clonación se ha descargado e instalado correctamente..\n\033[0m"
 
 echo -e "\033[01;32m\033[01mCambiando al directorio del repositorio!!\n\033[0m" 
-cd The-LoliBot-MD
+cd The-CatBot-MD2
 
 echo -e "\e[36m
 ██╗███╗░░██╗░██████╗████████╗░█████╗░██╗░░░░░██╗░░░░░  ███╗░░██╗██████╗░███╗░░░███╗
